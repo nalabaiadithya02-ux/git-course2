@@ -1,5 +1,5 @@
 add and remove users
-change the roles
+change the roles in database
 
 change 1
 change 2 in the Adithya's database
