@@ -2,8 +2,4 @@ add and remove users
 change the roles
 
 change 1
-<<<<<<< HEAD
-change 2 in the database
-=======
 change 2 in the Adithya's database
->>>>>>> feature3
