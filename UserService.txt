@@ -7,7 +7,4 @@ create an avatar for user
 login and logout
 
 change 1
-=======
-manage the database
-closing the connection
->>>>>>> feature2
+
